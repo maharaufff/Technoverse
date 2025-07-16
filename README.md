@@ -1,4 +1,4 @@
-# 🌐 Technoverse 2025 – UI/UX Website Design
+# 🌐 Technoverse – UI/UX Website Design
 
 This repository contains the **UI/UX design** for the official website of **Technoverse 2025**, the flagship technology event organized by **ACM – COMSATS Student Chapter**.
 
